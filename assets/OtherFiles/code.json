@@ -1,0 +1,17 @@
+{
+    "Distance": [
+        3348.0
+    ],
+    "Error_Codes": [
+        [
+            [
+                "P0123",
+                "Throttle/Pedal Position Sensor/Switch 'A' Circuit High"
+            ],
+            [
+                "P0222",
+                "Throttle/Pedal Position Sensor/Switch 'B' Circuit Low"
+            ]
+        ]
+    ]
+}

@@ -9,7 +9,7 @@
         android:label="carrolla"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDjKDtS7lN3EEhacrBQZZX8zn55ziDb020"/>
+               android:value="API KEY HERE FOR GOOGLE MAP"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

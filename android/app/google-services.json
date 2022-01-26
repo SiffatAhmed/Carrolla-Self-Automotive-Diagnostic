@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "845586598745",
+    "project_number": "PROJ NUMBER",
     "project_id": "carrolla-54d15",
     "storage_bucket": "carrolla-54d15.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:845586598745:android:1ae8f555234289ff061a48",
+        "mobilesdk_app_id": "MOBILESDK APP ID",
         "android_client_info": {
           "package_name": "com.example.carrolla"
         }
       },
       "oauth_client": [
         {
-          "client_id": "845586598745-8t72vkfoemrisrm5lq5bsfvonnbib83s.apps.googleusercontent.com",
+          "client_id": "CLIENT ID",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.carrolla",
-            "certificate_hash": "991d7f16ea4937fd10af608992c5a60aebadafa6"
+            "certificate_hash": "CERTIFICATE HASH"
           }
         },
         {
-          "client_id": "845586598745-ng6r4jkoluhuoa43gj24e1ckdalu6fh6.apps.googleusercontent.com",
+          "client_id": "CLIENT ID",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAOobu0tztxpB9WV5uuIfuUvBR_Yd8n2Dg"
+          "current_key": "YOUR MAPS API KEY HERE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "845586598745-ng6r4jkoluhuoa43gj24e1ckdalu6fh6.apps.googleusercontent.com",
+              "client_id": "CLIENT ID",
               "client_type": 3
             }
           ]
